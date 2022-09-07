@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "types": ["@testing-library/cypress", "cypress"]
+  },
+  "include": ["**/*.ts"]
+}
